@@ -1,9 +1,26 @@
-# Soil Classification Hackathon Challenge Template Repository
+ Soil Classification Challenges – AI Competition 2025
 
-This is the template repository for soil classification challenge. Please refer to this and make the required changes in your respective repositories. You could clone it as well and then add required files. 
+This repository contains solutions to two separate soil image classification challenges conducted as part of an AI competition.
 
-*Please note that: We strictly advise you to use this template, this is the same template as mentioned in the Google Forms shared with you.*
+---
 
-*Happy Coding and Hacking!*
+## Challenge 1: Soil Type Classification (Multiclass)
 
-### Deadline for Submissions: 25th May, 2025, 11:59 PM IST
+- Objective: Classify each image of soil into one of several soil types (e.g., Red, Black, Alluvial, etc.).
+- Data: Labeled training images with known soil types and a test set with unknown labels.
+- Type: Supervised multiclass image classification.
+- Evaluation Metric: Macro F1 Score.
+- Public Leaderboard Score: 0.9655
+
+---
+
+## Challenge 2: Soil vs Non-Soil Classification (Binary)
+
+- Objective: Determine whether a given image contains soil or not (1 = soil, 0 = non-soil).
+- Data: Training set contains only soil images. Test set contains a mix of soil and non-soil images.
+- Type: One-class classification or anomaly detection.
+- Evaluation Metric: F1 Score.
+- Strategy: No negative examples in training.
+- Public Leaderboard Score: 0.9801
+
+"""
