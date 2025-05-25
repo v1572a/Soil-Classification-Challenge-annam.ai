@@ -23,4 +23,3 @@ This repository contains solutions to two separate soil image classification cha
 - Strategy: No negative examples in training.
 - Public Leaderboard Score: 0.9801
 
-"""
