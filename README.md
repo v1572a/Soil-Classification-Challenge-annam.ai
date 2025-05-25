@@ -28,6 +28,6 @@ This repository contains solutions to two separate soil image classification cha
 - create a virtual environment using venv
 - Go to directory containing challenge 1 or challenge 2
 - pip install -r requirements.txt
-- Download Dataset from kaggle and add it in data directory
+- Download Dataset from kaggle and create a data folder and extract the data into the folder
 - add corresponding path of dataset in training pynb at their needed positions respectively
 
