@@ -23,3 +23,11 @@ This repository contains solutions to two separate soil image classification cha
 - Strategy: No negative examples in training.
 - Public Leaderboard Score: 0.9801
 
+- Setup instruction
+- Install python environment
+- create a virtual environment using venv
+- Go to directory containing challenge 1 or challenge 2
+- pip install -r requirements.txt
+- Download Dataset from kaggle and add it in data directory
+- add corresponding path of dataset in training pynb at their needed positions respectively
+
