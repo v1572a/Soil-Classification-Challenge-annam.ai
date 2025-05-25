@@ -24,7 +24,6 @@ This repository contains solutions to two separate soil image classification cha
 - Public Leaderboard Score: 0.9801
 
 ## Setup Instructions
-- Setup instruction
 - Install python environment
 - create a virtual environment using venv
 - Go to directory containing challenge 1 or challenge 2
